@@ -1,3 +1,4 @@
+<?php
 /**
  * WordPress rest api
  *
